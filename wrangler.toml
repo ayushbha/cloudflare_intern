@@ -1,0 +1,6 @@
+name = "app"
+type = "javascript"
+account_id = "66c7216b162f749ec92e3a07feaabd89"
+workers_dev = true
+route = ""
+zone_id = ""
